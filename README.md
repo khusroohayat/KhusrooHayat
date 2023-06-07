@@ -23,5 +23,5 @@ It's me, Syed Khusroo Hayat, a Software Engineer, passionate Full Stack develope
 <br />
 
 <a href="https://twitter.com/mangoPaki">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/khusrooHayat/khusrooHayat/master/assets/twitter.svg" />
+  <img align="right" alt="Khusroo Hayat | Twitter" width="21px" src="https://raw.githubusercontent.com/khusrooHayat/khusrooHayat/master/assets/twitter.svg" />
 </a>
