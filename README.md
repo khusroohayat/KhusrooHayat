@@ -3,7 +3,7 @@ It's me, Syed Khusroo Hayat, a Software Engineer, passionate Full Stack develope
 
 **About me**
 
-- 💼 Full Stack Engineer at [RedCastle Technologies]( https://www.redcastletechnology.com/)
+- 💼 Full Stack Engineer at [Northern Cresent](https://www.northerncrescent.ca/)
 
 - 📈 Contributing to Opensource projects with **46K** stars on GitHub
 
